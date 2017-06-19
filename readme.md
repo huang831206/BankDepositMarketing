@@ -1,3 +1,3 @@
-##a little demo for decision tree using R
+# a little demo for decision tree using R
 
-##dataset: bank deposit, type: csv
+## dataset: bank deposit, type: csv
